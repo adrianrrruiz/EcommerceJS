@@ -188,6 +188,7 @@ aside {
 /* Carrito de compras */
 #shopping-cart-container {
     padding: 0 24px;
+    background-color: var(--white);
 }
 
 .title-container {
